@@ -1,5 +1,5 @@
 
-var frt3 =["Apple","Orange","Grape","Banana"]
+var frt4 =["Apple","Orange","Grape","Banana"]
 
 /*console.log(frt[0])
 console.log(frt[1])
@@ -10,8 +10,8 @@ console.log(frt[3])*/
 // {
 //     console.log(count)
 // }
-console.log(frt3.length)
-for(count=0;count<frt3.length;count=count+1)
+console.log(frt4.length)
+for(count=0;count<frt4.length;count=count+1)
     {
-        console.log(frt3[count])
+        console.log(frt4[count])
     }
