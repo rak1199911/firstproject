@@ -1,15 +1,15 @@
-var fruit =["Apple","Orange","Grape","Banana"]
-/*console.log(fruit[0])
-console.log(fruit[1])
-console.log(fruit[2])
-console.log(fruit[3])*/
+var frt =["Apple","Orange","Grape","Banana"]
+/*console.log(frt[0])
+console.log(frt[1])
+console.log(frt[2])
+console.log(frt[3])*/
 
 // for(count=0;count<=5;count=count+1)
 // {
 //     console.log(count)
 // }
-console.log(fruit.length)
-for(count=0;count<fruit.length;count=count+1)
+console.log(frt.length)
+for(count=0;count<frt.length;count=count+1)
     {
-        console.log(fruit[count])
+        console.log(frt[count])
     }
